@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-zhi66y.congtogel68uio.site/sitemap.xml
